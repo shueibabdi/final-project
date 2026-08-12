@@ -1,0 +1,5 @@
+Navy: #0F172A
+Green: #22C55E
+Background: #F8FAFC
+Card: #FFFFFF
+Text: #111827

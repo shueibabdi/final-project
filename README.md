@@ -1,8 +1,7 @@
 # Todo App
 
-<<<<<<< HEAD
 Todo App
-=======
+
 A simple and clean Flutter To-Do application for managing daily tasks.
 
 ## About

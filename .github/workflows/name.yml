@@ -1,0 +1,12 @@
+name: Show My Name
+
+on:
+  push:
+
+jobs:
+  show-name:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Show Name
+        run: echo "Shueib Abdi Mohamed"

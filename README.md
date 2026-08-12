@@ -1,5 +1,8 @@
 # Todo App
 
+<<<<<<< HEAD
+Todo App
+=======
 A simple and clean Flutter To-Do application for managing daily tasks.
 
 ## About
@@ -20,6 +23,7 @@ The main purpose of this project is to practice Flutter development while follow
 
 * Flutter
 * Dart
+>>>>>>> origin/main
 
 ## Getting Started
 
